@@ -6,9 +6,9 @@ Tool to manage the status of your server.<br>
 
 <br>
 #Requisites
-    - You need to have Shift installed : https://github.com/shiftcurrency/shift
-    - Stop your Shift instance, this script will manage the start and stop app.js
-    - You need to have jq installed: sudo apt-get install jq
+    - You need to have Shift installed : https://github.com/shiftnrg/shift <br>
+    - Stop your Shift instance, this script will manage the start and stop app.js <br>
+    - You need to have jq installed: sudo apt-get install jq <br><br>
 
 #Installation
 Just do the following:
